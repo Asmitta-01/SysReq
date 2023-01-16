@@ -1,0 +1,22 @@
+/* 
+    Created on : Jun 16, 2020, 8:40:43 PM
+    Author     : Asmitta
+*/
+
+html{
+    margin: 0px 12%;
+    box-shadow: 0px 0px 100px black;
+    font-family: "Century Gothic", sans-serif;
+}
+
+table, .form-label{
+    font-size: 85%;
+}
+
+
+button.nav-link.active{
+    border-bottom: darkslategrey 5px solid;
+}
+div.tab-pane.active{
+    border-top: darkslategrey 5px solid;
+}

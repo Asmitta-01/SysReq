@@ -1,0 +1,6 @@
+{
+    "require": {
+        "symfony/yaml": "^6.0",
+        "fakerphp/faker": "^1.19"
+    }
+}
